@@ -4,6 +4,10 @@ title: Multi-Agent Trust Boundary Violations
 layout: risk
 doc-status: Approved-Specification
 type: OP
+owasp-asi_references:
+  - asi07-2026  # ASI07: Insecure Inter-Agent Communication
+  - asi08-2026  # ASI08: Cascading Failures
+  - asi10-2026  # ASI10: Rogue Agents
 related_risks:
   - ri-24  # Agent Action Authorization Bypass
   - ri-27  # Agent State Persistence Poisoning

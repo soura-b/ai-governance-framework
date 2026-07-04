@@ -4,6 +4,8 @@ title: MCP Server Supply Chain Compromise
 layout: risk
 doc-status: Approved-Specification
 type: SEC
+owasp-asi_references:
+  - asi04-2026  # ASI04: Agentic Supply Chain Vulnerabilities
 related_risks:
   - ri-8   # Tampering with the Foundational Model
   - ri-9   # Data Poisoning

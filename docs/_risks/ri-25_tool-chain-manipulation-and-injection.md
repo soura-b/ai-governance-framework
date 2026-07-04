@@ -6,6 +6,9 @@ doc-status: Approved-Specification
 type: SEC
 owasp-llm_references:
   - llm01-2025  # LLM01:2025 Prompt Injection
+owasp-asi_references:
+  - asi02-2026  # ASI02: Tool Misuse and Exploitation
+  - asi05-2026  # ASI05: Unexpected Code Execution (RCE)
 related_risks:
   - ri-10  # Prompt Injection
   - ri-24  # Agent Action Authorization Bypass

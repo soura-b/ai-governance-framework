@@ -4,6 +4,8 @@ title: Agent State Persistence Poisoning
 layout: risk
 doc-status: Approved-Specification
 type: SEC
+owasp-asi_references:
+  - asi06-2026  # ASI06: Memory & Context Poisoning
 related_risks:
   - ri-10  # Prompt Injection
   - ri-24  # Agent Action Authorization Bypass
