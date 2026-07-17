@@ -46,6 +46,10 @@ uk-regulations_references:
   - ri-4   # Hallucination and Inaccurate Outputs
   - ri-16  # Bias and Discrimination
   - ri-9   # Data Poisoning
+iosco-supervisory-toolkit_references:
+  - t2-model-risk  # Table 2: Model Risk Management
+  - t3-4           # Table 3.4: Data Governance
+  - t3-6           # Table 3.6: AI Model Validation, Testing and Monitoring
 ---
 
 ## Summary

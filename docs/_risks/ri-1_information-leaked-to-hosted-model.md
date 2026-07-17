@@ -46,7 +46,10 @@ uk-regulations_references:
   - ico-guidance-ai-data-protection # ICO AI guidance on controller accountability and security
   - ico-ai-data-protection-toolkit # Toolkit prompts risk assessment of data leakage in AI systemsrelated_risks:
   - ri-2   # Information Leaked to Vector Store
-  - ri-23  # Intellectual Property and Copyright
+  - ri-23  # Intellectual Property (IP) and Copyright
+iosco-supervisory-toolkit_references:
+  - t2-cybersecurity  # Table 2: Cybersecurity & Data Privacy/Protection
+  - t3-4              # Table 3.4: Data Governance
 ---
 ## Summary
 

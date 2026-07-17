@@ -6,10 +6,18 @@ doc-status: Approved-Specification
 type: SEC
 owasp-llm_references:
   - llm01-2025  # LLM01:2025 Prompt Injection
+atr_references:
+  - ATR-2026-00010  # Malicious Content in MCP Tool Response
+  - ATR-2026-00011  # Instruction Injection via Tool Output
+  - ATR-2026-00012  # Unauthorized Tool Call
+  - ATR-2026-00013  # Tool-Driven Server-Side Request Forgery
 related_risks:
   - ri-10  # Prompt Injection
   - ri-24  # Agent Action Authorization Bypass
   - ri-4   # Hallucination and Inaccurate Outputs
+iosco-supervisory-toolkit_references:
+  - t3-5  # Table 3.5: Risk Management of Advanced AI Systems
+  - t3-7  # Table 3.7: Controls and Human Oversight of AI Systems
 ---
 
 ## Summary

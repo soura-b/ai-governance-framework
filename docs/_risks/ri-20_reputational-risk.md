@@ -41,6 +41,9 @@ uk-regulations_references:
   - ri-10  # Prompt Injection
   - ri-16  # Bias and Discrimination
   - ri-4   # Hallucination and Inaccurate Outputs
+iosco-supervisory-toolkit_references:
+  - t2-disclosure  # Table 2: Disclosure & Transparency
+  - t5-4           # Table 5.4: Identifying Misleading Claims
 ---
 
 ## Summary

@@ -46,6 +46,11 @@ uk-regulations_references:
   - ri-10  # Prompt Injection
   - ri-17  # Lack of Explainability
   - ri-22  # Regulatory Compliance and Oversight
+iosco-supervisory-toolkit_references:
+  - t2-advice  # Table 2: Investment Advice & Suitability
+  - t3-5       # Table 3.5: Risk Management of Advanced AI Systems
+  - t3-7       # Table 3.7: Controls and Human Oversight of AI Systems
+  - t4-9       # Table 4.9: Use of Complex AI Products
 ---
 
 ## Summary

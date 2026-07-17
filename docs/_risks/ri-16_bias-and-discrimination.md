@@ -40,6 +40,10 @@ uk-regulations_references:
   - consumer-credit-act-1974 # Consumer-credit protections relevant to AI credit decisionsrelated_risks:
   - ri-19  # Data Quality and Drift
   - ri-22  # Regulatory Compliance and Oversight
+iosco-supervisory-toolkit_references:
+  - t2-advice  # Table 2: Investment Advice & Suitability
+  - t3-6       # Table 3.6: AI Model Validation, Testing and Monitoring
+  - t4-3       # Table 4.3: Fairness Due Diligence Assessment
 ---
 
 ## Summary

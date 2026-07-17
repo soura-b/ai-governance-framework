@@ -47,8 +47,12 @@ uk-regulations_references:
   - uk-gdpr-dpa-2018 # UK GDPR/DPA applies where embeddings or metadata include personal data
   - ico-guidance-ai-data-protection # ICO AI guidance covers security, minimisation and reuse controls
   - ico-ai-data-protection-toolkit # Toolkit supports AI privacy risk assessment for retrieval storesrelated_risks:
-  - ri-1   # Information Leaked To Hosted Model
-  - ri-9   # Data Poisoning
+related_risks:
+  - ri-1  # Information Leaked To Hosted Model
+  - ri-9  # Data Poisoning
+iosco-supervisory-toolkit_references:
+  - t2-cybersecurity  # Table 2: Cybersecurity & Data Privacy/Protection
+  - t3-4              # Table 3.4: Data Governance
 ---
 
 ## Summary
