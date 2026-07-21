@@ -8,7 +8,9 @@ nist-sp-800-53r5_references:
   - sa-9   # SA-9 External System Services
   - sc-8   # SC-8 Transmission Confidentiality And Integrity
   - si-4   # SI-4 System Monitoring
-  - sa-12  # SA-12 Supply Chain Protection
+  - sr-3   # SR-3 Supply Chain Controls And Processes
+  - sr-4   # SR-4 Provenance
+  - sr-5   # SR-5 Acquisition Strategies, Tools, And Methods
 atr_references:
   - ATR-2026-00010  # Malicious Content in MCP Tool Response
   - ATR-2026-00095  # MCP Server Supply Chain Poisoning
