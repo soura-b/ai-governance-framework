@@ -6,6 +6,9 @@ doc-status: Approved-Specification
 type: SEC
 owasp-llm_references:
   - llm01-2025  # LLM01:2025 Prompt Injection
+owasp-asi_references:
+  - asi02-2026  # ASI02: Tool Misuse and Exploitation
+  - asi05-2026  # ASI05: Unexpected Code Execution (RCE)
 atr_references:
   - ATR-2026-00010  # Malicious Content in MCP Tool Response
   - ATR-2026-00011  # Instruction Injection via Tool Output

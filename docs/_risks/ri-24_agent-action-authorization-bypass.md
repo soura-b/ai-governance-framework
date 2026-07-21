@@ -6,6 +6,9 @@ doc-status: Approved-Specification
 type: SEC
 owasp-llm_references:
   - llm06-2025  # LLM06:2025 Excessive Agency
+owasp-asi_references:
+  - asi02-2026  # ASI02: Tool Misuse and Exploitation
+  - asi03-2026  # ASI03: Identity and Privilege Abuse
 atr_references:
   - ATR-2026-00012  # Unauthorized Tool Call
   - ATR-2026-00040  # Agent Privilege Escalation

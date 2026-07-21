@@ -4,6 +4,10 @@ title: Multi-Agent Trust Boundary Violations
 layout: risk
 doc-status: Approved-Specification
 type: OP
+owasp-asi_references:
+  - asi07-2026  # ASI07: Insecure Inter-Agent Communication
+  - asi08-2026  # ASI08: Cascading Failures
+  - asi10-2026  # ASI10: Rogue Agents
 atr_references:
   - ATR-2026-00030  # Cross-Agent Attack Detection
   - ATR-2026-00076  # Insecure Inter-Agent Communication

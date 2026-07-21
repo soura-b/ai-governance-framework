@@ -32,6 +32,9 @@ canada-regulations_references:
   - osfi-e23-2027          # OSFI E-23 — model documentation/validation (FRFIs, 2027)
   - qc-amf-ai-guideline    # AMF AI Guideline — lifecycle controls imply explainability (QC FIs, 2027)
   - iosco-fr-02-2026       # IOSCO Toolkit — disclosure / AI transparency
+owasp-asi_references:
+  - asi09-2026  # ASI09: Human-Agent Trust Exploitation
+related_risks:
 uk-regulations_references:
   # Explainability for consumer outcomes and regulated advice
   - fca-ai-approach-2024 # FCA AI approach stresses accountability and explainability expectations
