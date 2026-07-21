@@ -9,13 +9,18 @@ nist-sp-800-53r5_references:
   - sc-8   # SC-8 Transmission Confidentiality And Integrity
   - si-4   # SI-4 System Monitoring
   - sa-12  # SA-12 Supply Chain Protection
+atr_references:
+  - ATR-2026-00010  # Malicious Content in MCP Tool Response
+  - ATR-2026-00095  # MCP Server Supply Chain Poisoning
 mitigates:
   - ri-26  # MCP Server Supply Chain Compromise
-  - ri-8   # Tampering with the Foundational Model
-  - ri-1   # Information Leaked to Hosted Model
+  - ri-8   # Tampering With the Foundational Model
+  - ri-1   # Information Leaked To Hosted Model
 related_mitigations:
-  - mi-7   # Legal and Contractual Frameworks for AI Systems
-  - mi-4   # AI System Observability
+  - mi-7  # Legal and Contractual Frameworks for AI Systems
+  - mi-4  # AI System Observability
+iosco-supervisory-toolkit_references:
+  - t4-4  # Table 4.4: Supply Chain Risk Assessment
 ---
 
 ## Purpose

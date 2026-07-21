@@ -9,11 +9,17 @@ owasp-llm_references:
   - llm06-2025  # LLM06:2025 Excessive Agency
 owasp-asi_references:
   - asi03-2026  # ASI03: Identity and Privilege Abuse
+atr_references:
+  - ATR-2026-00113  # Credential Theft via Agent Channel
 related_risks:
   - ri-10  # Prompt Injection
   - ri-24  # Agent Action Authorization Bypass
   - ri-25  # Tool Chain Manipulation and Injection
   - ri-26  # MCP Server Supply Chain Compromise
+iosco-supervisory-toolkit_references:
+  - t2-cybersecurity  # Table 2: Cybersecurity & Data Privacy/Protection
+  - t3-5              # Table 3.5: Risk Management of Advanced AI Systems
+  - t6-5              # Table 6.5: Records on Incidents Relating to AI Products or Services
 ---
 
 ## Summary
